@@ -32,10 +32,10 @@ public class MyController {
 
 		list = new ArrayList<Student>();
 
-		Student theStudent = new Student(0, "ROHIT", "Bhamore");
-		Student theStudent1 = new Student(1, "Raj", "BHamore");
-		Student theStudent2 = new Student(2, "Chnanda", "Bhamore");
-		Student theStudent3 = new Student(3, "Yashwant", "Bhamore");
+		Student theStudent = new Student(1, "Rohit", "Sharma");
+		Student theStudent1 = new Student(2, "Virat", "Kohli");
+		Student theStudent2 = new Student(3, "Devid", "Warner");
+		Student theStudent3 = new Student(4, "KL", "Rahul");
 
 		list.add(theStudent);
 		list.add(theStudent1);
